@@ -2,6 +2,8 @@
     "name": "jsoltani/js-rsa-crypt",
     "description": "Data encryption using public and private keys.",
     "type": "library",
+    "homepage": "https://github.com/jsoltani/js-rsaCrypt",
+    "license": "MIT",
     "authors": [
         {
             "name": "Javad soltani",
