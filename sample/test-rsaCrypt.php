@@ -2,9 +2,9 @@
 
 require_once '../vendor/autoload.php';
 
-$crypt = new RsaCrypt;
+$crypt = new jsRsaCrypt();
 
-$crypt->genKeys(512);
+//$crypt->genKeys(512);
 $crypt->setPublicKey('public.pem');
 $crypt->setPrivateKey('private.pem');
 $data = $crypt->encrypt("Test Crypt");
