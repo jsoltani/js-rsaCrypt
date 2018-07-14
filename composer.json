@@ -5,6 +5,7 @@
     "homepage": "https://github.com/jsoltani/js-rsaCrypt",
     "license": "MIT",
     "version": "1.0.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Javad soltani",
