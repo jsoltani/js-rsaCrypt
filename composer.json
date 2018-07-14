@@ -1,5 +1,5 @@
 {
-    "name": "js/js-rsa-crypt",
+    "name": "jsoltani/js-rsa-crypt",
     "description": "Data encryption using public and private keys.",
     "type": "library",
     "authors": [
