@@ -2,8 +2,6 @@
     "name": "js/js-rsaCrypt",
     "description": "Data encryption using public and private keys.",
     "type": "library",
-    "keywords": ["crypt", "data", "public", "private", "openssl"],
-    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Javad soltani",
