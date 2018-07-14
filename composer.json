@@ -1,5 +1,5 @@
 {
-    "name": "js/js-rsaCrypt",
+    "name": "js/js-rsa-crypt",
     "description": "Data encryption using public and private keys.",
     "type": "library",
     "authors": [
