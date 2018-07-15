@@ -1,8 +1,8 @@
 # js-rsaCrypt
 rsa encryption and decryption in php
 
-#Requirements
-js-crypto Requires PHP >= 5.3.3
+# Requirements
+js-rsaCrypt Requires PHP >= 5.3.3
 
 # Installation
 ## Using Composer
